@@ -1,5 +1,5 @@
 {
-  "name": "css-modules-require-hook",
+  "name": "css-modules-require-hook-fix",
   "version": "4.1.0",
   "description": "A require hook to compile CSS Modules on the fly",
   "main": "lib/index.js",
